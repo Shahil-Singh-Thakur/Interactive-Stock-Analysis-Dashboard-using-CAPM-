@@ -4,3 +4,4 @@ yfinance
 pandas-datareader
 plotly
 numpy
+setuptools
