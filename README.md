@@ -1,0 +1,2 @@
+# Interactive-Stock-Analysis-Dashboard-using-CAPM-
+Developed an interactive financial analytics web application leveraging the Capital Asset Pricing Model (CAPM) to evaluate expected stock returns. The application integrates real-time market data, computes beta using historical price movements and provides visual insights into stock performance and riskreturn dynamics through an intuitive dashboard
