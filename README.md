@@ -50,5 +50,11 @@ This project applies the CAPM model to estimate the expected return of stocks ba
 * CAPM helps evaluate whether a stock is **overvalued or undervalued**
 * Visual analysis improves understanding of market behavior
 
+## To run the streamlit file
 
-Give it a star ⭐ on GitHub!
+* first copy the CAPM_return.py file and paste it in your vs code window
+* copy the CAPM_functions.py and paste it to
+* install the required libraries from the requirements.txt file using pip install command
+* in the terminal wrtie the following command:
+* streamlit run CAPM_return.py
+* and voila you will be redirected to the dashboard
